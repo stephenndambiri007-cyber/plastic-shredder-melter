@@ -1,3 +1,7 @@
+![SolidWorks Render](shredder-render.png)
+![Engineering Drawing](shredder-drawing.png)
+![Finished Prototype](shredder-finished.jpg)
+![Fabrication](shredder-fabrication.jpg)
 # Manually Operated Plastic Waste Shredder & Melter
 
 A manually operated mechanical system designed to shred and melt plastic waste, converting it into raw material for the production of affordable paver blocks.
